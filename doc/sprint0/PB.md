@@ -64,21 +64,10 @@
 - Comparison of performance against market indexes
 - Chart of historic performance (1D, 1W, 1M, 3M, 1Y)
 
-### US006: Portfolio Diversification Analysis
-**As a** user
-**I want to** assess my portfolio diversification
-**So that** I am able to understand risk distribution across sectors
-
-**Criteria of Satisfaction:**
-- Breakdown of sector allocation
-- Geographic diversification presentation
-- Level of risk categorization
-- Diversification score and advice
-- Industry concentration alerts
 
 ## Epic 3: Stock Trading Functionality
 
-### US007: Stock Search and Discovery
+### US006: Stock Search and Discovery
 **As a** user
 **I want to** search for stocks by symbol, name, or sector
 **So that** I can discover investment opportunities
@@ -90,7 +79,7 @@
 - Advanced filters (market cap, price range, industry)
 - Recently visited stock history
 
-### US008: Buy Stocks
+### US007: Buy Stocks
 **As a** user
 **I want to** purchase stocks with my virtual funds
 **So that** I can build my investment portfolio
@@ -103,7 +92,7 @@
 - Transaction is visible in portfolio
 - Portfolio value is updated real-time
 
-### US009: Sell Stocks
+### US008: Sell Stocks
 **As a** user  
 **I want to** sell stocks within my portfolio  
 **So that** I can realize gains or limit losses  
@@ -116,7 +105,7 @@
 - Capital gains/loss recording  
 - Confirm and record transactions  
 
-### US010: Order Management
+### US09: Order Management
 **As a** user  
 **I want to** view and manage pending orders
 **So that** I can track and modify my trade instructions
@@ -131,7 +120,7 @@
 
 ## Epic 4: Market Data & Analysis
 
-### US011: Real-time Stock Quotes
+### US010: Real-time Stock Quotes
 **As a** user
 **I want to** view real-time stock price and market information
 **So that** I am able to make informed trading decisions
@@ -144,7 +133,7 @@
 - Updated data every 15 seconds
 - Indicator of market hours
 
-### US012: Stock Charts and Technical Analysis
+### US011: Stock Charts and Technical Analysis
 **As a** user
 **I want to** view interactive stock charts with technical indicators
 **So that** I can examine price patterns and trends
@@ -157,35 +146,19 @@
 - Simple technical indicators (RSI, MACD)
 - Facility for chart zooming and panning
 
-### US013: Company Information
-**As a** user
-**I want to** access comprehensive company information
-**So that** I can carry out research on investment prospects
-
-**Criteria of Satisfaction:**
-- Company description and company profile
-- Important financial information (P/E ratio, market cap, etc.)
-- Recent news and press releases
-- Analyst ratings and price targets
-- Peer comparison statistics
-- Dividend statistics if available
 
 ## Epic 5: Educational Features
 
-### US014: Trading Tutorials
+### US012: Trading Tutorials
 **As a** new user
 **I want to** see guided basic tutorials for trading
 **So that** I can gain an understanding of basic concepts of trading
 
 **Criteria of Satisfaction:**
 - Tutorial steps for basic functionalities
-- Guided tours with actual platform functionality
-- Tutorial module progress tracking
-- Quiz questions for comprehension
-- Glossary of trading terms
 - Video explanations of in-depth topics
 
-### US015: Market Learning Center
+### US013: Market Learning Center
 **As a** student who wants to learn
 **I want to** see educational content about markets and investing
 **So that** I can increase trading knowledge and skills
@@ -198,7 +171,7 @@
 - Regular updates of content
 - Difficulty level marking (beginner, intermediate, advanced)
 
-### US016: Learning Analytics with Performance Insights
+### US014: Learning Analytics with Performance Insights
 **As a** user
 **I want to** receive comprehensive analytics of my trading performance
 **So that** I am able to learn from my failures and successes
@@ -213,7 +186,7 @@
 
 ## Epic 6: Social & Competitive Features
 
-### US017: Trading Competitions
+### US015: Trading Competitions
 **As a** user
 **I want to** participate in trading competitions
 **So that** I can challenge others and test my skills
@@ -226,7 +199,7 @@
 - Participation and entry tracking
 - Comparison with other player's performance
 
-### US018: User Community & Discussion
+### US016: User Community & Discussion
 **As a** user
 **I want to** be able to interact with others and share trading ideas
 **So that** I can learn from the community and share strategies
@@ -239,7 +212,7 @@
 - Community interaction-based user reputation feature
 - Moderation features for maintaining quality posts
 
-### US019: Social Portfolio Sharing
+### US017: Social Portfolio Sharing
 **As a** user
 **I want to** share my portfolio performance with others
 **So that** I can boast of my results and learn from good traders
@@ -261,8 +234,8 @@
 
 **Criteria of Satisfaction:**
 - Profile editing information
-- Notification options (email, in-app)
 - Display preference (theme, charts, layout)
 - Social feature privacy options
 - Account security settings (two-factor authentication)
 - Exporting data for personal data
+- Brokerage Fee Toggle
