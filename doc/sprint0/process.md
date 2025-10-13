@@ -5,15 +5,14 @@
 ### Team Structure
 Our team organized in a team-based, cross-functional manner where each member owns specific technical domains while being part of overarching project decisions. We had clearly defined roles based on the strength of each individual and interest:
 
-- **Frontend Development**: User experience design and React.js
-- **Backend Development**: Database design and Node.js API development
-- **Java Microservices**: Analytics services and market data processing
-- **DevOps & Integration**: System architecture and deployment coordination
+- **Frontend Development**: User experience design and React.js Setup
+- **Backend Development**: Database design and REST API in Java Setup
+
 
 ### Tools and Communication
 We selected all-in-one toolkit to support our development process:
 
-- **Communication**: Discord server for real-time discussion and morning standups
+- **Communication**: Discord server, Whatsapp Group for real-time discussion and morning standups
 - **Project Management**: Trello for recording user stories and sprint planning
 - **Version Control**: GitHub for collaboration on code using feature branch workflow
 - **Documentation**: Shared Google Drive for collaborative document editing
@@ -25,9 +24,9 @@ We employed a consensus decision making process with formal voting as and when n
 1. **Proposal Phase**: Team member provides solution or idea and rationale
 2. **Discussion Phase**: Open discussion of pros, cons, and alternatives (15-20 minutes)
 3. **Voting Phase**: Anonymous Trello voting power-ups if consensus is not reached
-4. **Documentation Phase**: Record decision and rationale in our team wiki
+4. **Documentation Phase**: Record decision and rationale in our team
 
-This workflow worked well for big architecture decisions but a bit too slow for minor implementation details.
+This workflow worked well for big decisions but a bit too slow for minor implementation details.
 
 ## Priority Definition and User Story Estimation
 
@@ -70,15 +69,13 @@ The process took longer than expected initially but improved as the team learned
   - Select user stories for upcoming sprint
   - Break down stories into tasks and estimate effort
 
-- **Sprint Review/Retrospective**: 1.5-hour collaborative session at sprint end
-  - Demonstrate completed features
+- **Sprint Review/Retrospective**: 3-hour collaborative session at sprint end
+  - Demonstrate Ideas
   - Discuss what has worked and how to make it better
   - Create process changes for next sprint
 
 ### Ad-Hoc Collaboration
 - **Technical Spikes**: 1-2 hour focused sessions when tackling hard tech problems
-- **Pair Programming**: 2-3 sessions weekly for hard features or knowledge sharing
-- **Architecture Reviews**: Single weekly 1-hour session to discuss system design choices
 
 ## Challenges and Learning Points
 
@@ -98,15 +95,14 @@ The process took longer than expected initially but improved as the team learned
 1. **Breaking Down User Stories**: Large stories (>8 points) always were a problem and need to be broken down further
 2. **Definition of Done**: Having clear, specific criteria prevented scope creep and upheld quality
 3. **Technology Learning Curve**: Java Spring Boot integration required more research time than initially expected
-4. **Mobile-First Design**: Starting with mobile wireframes made responsive design much easier
+4. **Mobile-First Design**: Starting with wireframes made responsive design much easier
 
 ## Lessons for Next Phase
 
 ### Process Improvements
 1. **Add Buffer Time**: Include 15-20% buffer to all estimates for learning and integration problems
 2. **Technical Debt Tracking**: Implement clear user stories for technical debt and infrastructure improvements
-3. **Stakeholder check-ins**: Have weekly demo sessions with instructors/TAs for initial feedback
-4. **Code Review Standards**: Have peer review compulsory for every change with review checklist documented
+3. **Code Review Standards**: Have peer review compulsory for every change with review checklist documented
 
 ### Tool Enhancements
 1. **Automated Testing**: Implement continuous integration pipeline to run tests automatically
