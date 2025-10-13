@@ -10,8 +10,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution Guidelines](#contribution-guidelines)
-- [Resources](#resources)
-- [License](#license)
+
 
 ---
 
