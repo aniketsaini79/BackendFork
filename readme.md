@@ -79,3 +79,24 @@ npm install
 npm start
 ```
 
+## Usage (To be used before deployment)
+1. Open `http://localhost:3000` in your browser.
+2. Register a new user account or log in.
+3. Start trading stocks, managing your portfolio, and visualizing trends.
+
+
+
+---
+
+## Contribution Guidelines
+- **Git Workflow:** Feature branches should follow `feature/<feature-name>` naming convention.
+- **Pull Requests:** All code changes must go through PRs for review.
+- **Issues:** Use GitHub Issues to track bugs and feature requests.
+- **Code Standards:** Follow Java and JavaScript best practices (e.g., naming conventions, code formatting).
+- **Communication:** Team uses Discord (invite link below) for standups and discussions.
+
+
+---
+
+
+
