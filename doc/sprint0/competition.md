@@ -41,8 +41,8 @@
 
 ## How StockSprout Excels
 
-### 1. **MERN + Java Full-Stack Architecture**
-Compared to competitors that usually only use proprietary platforms, StockSprout leverages modern web technologies (React frontend, Node.js backend, MongoDB database) with Java microservices for scalable business logic and real-time data processing.
+### 1. **Java Full-Stack Architecture**
+Compared to competitors that usually only use proprietary platforms, StockSprout leverages modern web technologies (React frontend, Spring Framework backend, PostgreSQL database) with Java microservices for scalable business logic and real-time data processing.
 
 ### 2. **Educational-First Design**
 While other simulators are diluted copies of professional platforms, StockSprout is built from the ground up as an educational platform with:
@@ -50,22 +50,17 @@ While other simulators are diluted copies of professional platforms, StockSprout
 - Progressive skill-building features
 - Gamified learning experiences
 - Comprehensive library of educational resources
+- Also simulates brokerage to have the person understand what goes into investing
 
 ### 3. **Social Learning Community**
 Most sites revolve around one-to-one trading. StockSprout concentrates on:
-- Team trading competitions
+- Trading competitions
 - Peer learning features
-- Student-mentor relationships
-- Discussion forums and strategy sharing
+- Leaderboards
 
-### 4. **Advanced Analytics for Learning**
-Unlike basic profit/loss tracking, StockSprout provides:
-- Advanced performance analytics of educational benefit
-- Evaluation of strategy effectiveness
-- Risk management advice
-- Analysis of behavioral trading patterns
 
-### 5. **Accessibility and Mobile-First Design**
+
+### 4. **Accessibility and Mobile-First Design**
 Some professional simulators are desktop-oriented and complex. StockSprout concentrates on:
 - Easy mobile-responsive design
 - Simplified onboarding process
@@ -82,13 +77,6 @@ Some professional simulators are desktop-oriented and complex. StockSprout conce
 - **Gap**: Platforms predominantly target US markets
 - **Opportunity**: Multi-market simulator with access to international stock markets
 
-### 3. **Team-Based Learning
-- **Gap**: Professional platforms are desktop-oriented
-- **Opportunity**: Integrated teamwork features for collaboration and competitions
-
-### 4. **Mobile-Native Experience**
-- **Gap**: Desktop-oriented professional platforms; shallow games have no substance
-- **Opportunity**: Mobile trading simulator with rich features
 
 ## Why Competitors Have Not Filled These Gaps
 
@@ -106,10 +94,9 @@ Banks are experts at trading tech but not necessarily in educational design expe
 
 ## Competitive Advantages
 
-1. **Modern Technology Stack**: MERN + Java provides scalability and performance advantages
+1. **Modern Technology Stack**:React + Java provides scalability and performance advantages
 2. **Learning Orientation**: Purpose-built for learning and not re-purposed from professional software
 3. **Social Learning Functionality**: Integrated social learning and collaboration functions
-4. **Mobile Experience**: Native mobile experience instead of desktop experience
 5. **Adaptive Complexity**: Adaptive interface that evolves with user expertise
 6. **Ease of Integration**: Ease of integration into educational institutions
 
