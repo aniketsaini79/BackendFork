@@ -66,3 +66,16 @@ spring.datasource.password=YOUR_DB_PASSWORD
 # Build and run backend
 mvn clean install
 mvn spring-boot:run
+```
+
+### Frontend Setup
+```bash
+cd ../frontend
+
+# Install dependencies
+npm install
+
+# Run frontend
+npm start
+```
+
